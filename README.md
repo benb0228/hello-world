@@ -1,3 +1,3 @@
 # hello-world
 tutorial for using github
-by Ben
+making a "commit"
